@@ -1,1 +1,3 @@
 
+[Natural] | [Artificial] | [decoratica]
+|---------|-----------| -----------|
